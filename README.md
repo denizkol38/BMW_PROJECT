@@ -1,4 +1,4 @@
-# DenizBank Website Project
+# BMW M5 CS Website Project
 
 A website promoting the BMW M5 CS.
 
